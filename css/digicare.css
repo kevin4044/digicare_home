@@ -1,0 +1,33 @@
+.nav-top {
+    margin-top: 30px;
+}
+.logo-top {
+    width:245px;
+    height: 75px;
+}
+
+.button-order {
+    width: 110px;
+    height: 42px;
+    margin-left: 20px;
+}
+.color-black {
+    color: #000000;
+}
+.footer
+{
+    background-color: rgb(245, 247, 250);
+    height: 245px;
+}
+
+.m-body {
+    padding-top:106px;
+}
+.u-copyright {
+    color:rgb(184, 187, 193);
+    font-size: 11px;
+    line-height: 1.6em;
+}
+
+
+
